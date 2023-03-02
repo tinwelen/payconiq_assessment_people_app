@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.example.android.people.app-mergeDebugResources-37:/layout/chat_fragment.xml",
+        "source": "com.example.android.people.app-main-40:/layout/chat_fragment.xml"
+    },
+    {
+        "merged": "com.example.android.people.app-mergeDebugResources-37:/layout/main_activity.xml",
+        "source": "com.example.android.people.app-main-40:/layout/main_activity.xml"
+    },
+    {
+        "merged": "com.example.android.people.app-mergeDebugResources-37:/layout/bubble_activity.xml",
+        "source": "com.example.android.people.app-main-40:/layout/bubble_activity.xml"
+    },
+    {
+        "merged": "com.example.android.people.app-mergeDebugResources-37:/layout/contact_header.xml",
+        "source": "com.example.android.people.app-main-40:/layout/contact_header.xml"
+    },
+    {
+        "merged": "com.example.android.people.app-mergeDebugResources-37:/layout/message_item.xml",
+        "source": "com.example.android.people.app-main-40:/layout/message_item.xml"
+    },
+    {
+        "merged": "com.example.android.people.app-mergeDebugResources-37:/layout/main_fragment.xml",
+        "source": "com.example.android.people.app-main-40:/layout/main_fragment.xml"
+    },
+    {
+        "merged": "com.example.android.people.app-mergeDebugResources-37:/layout/voice_call_activity.xml",
+        "source": "com.example.android.people.app-main-40:/layout/voice_call_activity.xml"
+    },
+    {
+        "merged": "com.example.android.people.app-mergeDebugResources-37:/layout/chat_item.xml",
+        "source": "com.example.android.people.app-main-40:/layout/chat_item.xml"
+    },
+    {
+        "merged": "com.example.android.people.app-mergeDebugResources-37:/layout/photo_fragment.xml",
+        "source": "com.example.android.people.app-main-40:/layout/photo_fragment.xml"
+    }
+]

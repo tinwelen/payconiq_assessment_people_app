@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/transition_slide_bottom.xml.flat",
+        "source": "com.example.android.people.app-main-40:/transition/slide_bottom.xml"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.android.people.app-main-40:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/layout_chat_item.xml.flat",
+        "source": "com.example.android.people.app-main-40:/layout/chat_item.xml"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/transition_app_bar.xml.flat",
+        "source": "com.example.android.people.app-main-40:/transition/app_bar.xml"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/layout_photo_fragment.xml.flat",
+        "source": "com.example.android.people.app-main-40:/layout/photo_fragment.xml"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.android.people.app-main-40:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/drawable_ic_message.xml.flat",
+        "source": "com.example.android.people.app-main-40:/drawable/ic_message.xml"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/layout_main_activity.xml.flat",
+        "source": "com.example.android.people.app-main-40:/layout/main_activity.xml"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.android.people.app-main-40:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/layout_message_item.xml.flat",
+        "source": "com.example.android.people.app-main-40:/layout/message_item.xml"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/drawable_ic_open_in_new.xml.flat",
+        "source": "com.example.android.people.app-main-40:/drawable/ic_open_in_new.xml"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.android.people.app-main-40:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/layout_chat_fragment.xml.flat",
+        "source": "com.example.android.people.app-main-40:/layout/chat_fragment.xml"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/xml_shortcuts.xml.flat",
+        "source": "com.example.android.people.app-main-40:/xml/shortcuts.xml"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/drawable_message_outgoing.xml.flat",
+        "source": "com.example.android.people.app-main-40:/drawable/message_outgoing.xml"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/layout_main_fragment.xml.flat",
+        "source": "com.example.android.people.app-main-40:/layout/main_fragment.xml"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/layout_voice_call_activity.xml.flat",
+        "source": "com.example.android.people.app-main-40:/layout/voice_call_activity.xml"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/layout_bubble_activity.xml.flat",
+        "source": "com.example.android.people.app-main-40:/layout/bubble_activity.xml"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/transition_slide_top.xml.flat",
+        "source": "com.example.android.people.app-main-40:/transition/slide_top.xml"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.android.people.app-main-40:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.people.app-main-40:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/drawable_ic_voice_call.xml.flat",
+        "source": "com.example.android.people.app-main-40:/drawable/ic_voice_call.xml"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.android.people.app-main-40:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.android.people.app-main-40:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/layout_contact_header.xml.flat",
+        "source": "com.example.android.people.app-main-40:/layout/contact_header.xml"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/drawable_ic_send.xml.flat",
+        "source": "com.example.android.people.app-main-40:/drawable/ic_send.xml"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.people.app-main-40:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/drawable_message_incoming.xml.flat",
+        "source": "com.example.android.people.app-main-40:/drawable/message_incoming.xml"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.android.people.app-main-40:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.people.app-main-40:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/menu_chat.xml.flat",
+        "source": "com.example.android.people.app-main-40:/menu/chat.xml"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.android.people.app-main-40:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.android.people.app-merged_res-38:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.android.people.app-main-40:/mipmap-mdpi/ic_launcher_round.png"
+    }
+]

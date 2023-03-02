@@ -1,0 +1,7 @@
+com.example.android.people.test.app-jetified-annotation-experimental-1.3.0-0 /Users/katsas/.gradle/caches/transforms-3/9c08696188b72bd8686b5e8c497e9310/transformed/jetified-annotation-experimental-1.3.0/res
+com.example.android.people.test.app-jetified-core-1.5.0-1 /Users/katsas/.gradle/caches/transforms-3/a94b9b2bf38ba40147134c7e47f491f0/transformed/jetified-core-1.5.0/res
+com.example.android.people.test.app-androidTest-2 /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/build/generated/res/resValues/androidTest/debug
+com.example.android.people.test.app-androidTest-3 /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/build/generated/res/rs/androidTest/debug
+com.example.android.people.test.app-mergeDebugAndroidTestResources-4 /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.android.people.test.app-mergeDebugAndroidTestResources-5 /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.android.people.test.app-merged_res-6 /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/build/intermediates/merged_res/debugAndroidTest

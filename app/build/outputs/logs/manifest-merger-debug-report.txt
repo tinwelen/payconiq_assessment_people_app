@@ -1,0 +1,365 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:17:1-119:12
+INJECTED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:17:1-119:12
+INJECTED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:17:1-119:12
+INJECTED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:17:1-119:12
+MERGED from [androidx.databinding:viewbinding:7.4.1] /Users/katsas/.gradle/caches/transforms-3/6fef0b615b986db27ff121f6ba8c164f/transformed/jetified-viewbinding-7.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.8.0] /Users/katsas/.gradle/caches/transforms-3/a5d27fd1ab954ee81ee9d94bdd530d53/transformed/material-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/katsas/.gradle/caches/transforms-3/9ad34f74696732c4b40ae55da8a3b304/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/katsas/.gradle/caches/transforms-3/9c0a8599a90ce61c5f398d6bd8bd1aca/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/katsas/.gradle/caches/transforms-3/d87d43b06734b783b9b651f947836087/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.5] /Users/katsas/.gradle/caches/transforms-3/8951d65460bddc21b7582d1702e5db7e/transformed/jetified-fragment-ktx-1.5.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/katsas/.gradle/caches/transforms-3/ee926662fdfb6cdba6f961d9ea7cf3f8/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/katsas/.gradle/caches/transforms-3/135e089f0c68becc0b56d3f701356820/transformed/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /Users/katsas/.gradle/caches/transforms-3/d2bf619d4187915b234b8644ff2e4b53/transformed/jetified-glide-4.10.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.5.5] /Users/katsas/.gradle/caches/transforms-3/eed1be0f82052be87d93ef164a11210c/transformed/fragment-1.5.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.6.0] /Users/katsas/.gradle/caches/transforms-3/c4a3d055e6149a3031cc382f5898fd48/transformed/jetified-activity-ktx-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.6.0] /Users/katsas/.gradle/caches/transforms-3/c9729fe620717445f4abdbf6c0645dc9/transformed/jetified-activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/katsas/.gradle/caches/transforms-3/ea42959bb88d62ef71c23f7b64e9bdb9/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/katsas/.gradle/caches/transforms-3/bf39dfa708401114ee1f8aedf8999a51/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/katsas/.gradle/caches/transforms-3/96e82cbcd6a2b051ba1ea5425edea535/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/katsas/.gradle/caches/transforms-3/2fb5b4222683eab9b603ffdc8ede8bbc/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/katsas/.gradle/caches/transforms-3/badb00e87c6c69b77eeebd52c1d218fd/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/katsas/.gradle/caches/transforms-3/183d452814fa46fdd218b74e0ae3d5ba/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/katsas/.gradle/caches/transforms-3/50473afab05ea812966928b320f86349/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/katsas/.gradle/caches/transforms-3/c5c3c820c5650f9a630ffb72e3b56e1b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/katsas/.gradle/caches/transforms-3/4a7b3d502664a029e126aaa47a3f65ed/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/katsas/.gradle/caches/transforms-3/0731ae5028bd7114ae2b837eddec9531/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/katsas/.gradle/caches/transforms-3/cea598f657400b3b7d462bb1c88a14c8/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/katsas/.gradle/caches/transforms-3/2ccebcd26ba987a9d0a128564a2b5ee3/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /Users/katsas/.gradle/caches/transforms-3/4cf47ca9ce2a85aa0923fbfa9e714a39/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/katsas/.gradle/caches/transforms-3/d2c4ae36feb9663bebc776600aecf742/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/katsas/.gradle/caches/transforms-3/6f3c4442801afba1f4d309d984eab266/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/katsas/.gradle/caches/transforms-3/a418c322704ec8237c88267170f15803/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/katsas/.gradle/caches/transforms-3/7fac3b1a4b480d2cf63ec91567f95304/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] /Users/katsas/.gradle/caches/transforms-3/d34b9abf6e63377c506daad0722db108/transformed/jetified-lifecycle-livedata-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/katsas/.gradle/caches/transforms-3/6e96df3a9072c7da96e52dfb9d15a59a/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/katsas/.gradle/caches/transforms-3/1364c419f8d29b92a4030d6257fa3b13/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /Users/katsas/.gradle/caches/transforms-3/ba35313ed7bf2d1d400b9c34c2978388/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/katsas/.gradle/caches/transforms-3/9c08696188b72bd8686b5e8c497e9310/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/katsas/.gradle/caches/transforms-3/bb30e67c24962a9e8685ea0378d7d406/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/katsas/.gradle/caches/transforms-3/03662b7a542b234b8f15eeafe8baf87f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/katsas/.gradle/caches/transforms-3/db472a875c0c4ba0b695f88c6ae70467/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/katsas/.gradle/caches/transforms-3/52cd9fd1a0d1fa95a41ac6c81cf95566/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/katsas/.gradle/caches/transforms-3/2832e8e425067d5ba7b350731e1b7e5a/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /Users/katsas/.gradle/caches/transforms-3/4766e6bf963ddf6b2c4cae5dbd358945/transformed/jetified-gifdecoder-4.10.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/katsas/.gradle/caches/transforms-3/d91c3eabdf7de84e0ecbe1e67e159738/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/katsas/.gradle/caches/transforms-3/347fec9dbda9e7d1b1a83c1a0233ae9d/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/katsas/.gradle/caches/transforms-3/49108ca502d44a122c559dd335971f6a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] /Users/katsas/.gradle/caches/transforms-3/9ec9227ace151cb70ab90ad1b6792f69/transformed/lifecycle-livedata-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/katsas/.gradle/caches/transforms-3/e437291e38fdbf39805b38b66f126719/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/katsas/.gradle/caches/transforms-3/d135753e78a2b7618b4ec11c196c6f15/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/katsas/.gradle/caches/transforms-3/9ecbe20721dc128bdecb7dbee21b7f06/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/katsas/.gradle/caches/transforms-3/8a1f8a7a0132891cc0d0f56e2f5acba1/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/katsas/.gradle/caches/transforms-3/ce8944ac9c5ba2c4887b8dde92411cf4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/katsas/.gradle/caches/transforms-3/a27d81022fa032d7392335d691c17151/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:17:1-119:12
+INJECTED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:17:1-119:12
+INJECTED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:17:1-119:12
+	package
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:19:5-41
+		INJECTED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:17:1-119:12
+		INJECTED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:18:5-51
+	android:versionCode
+		INJECTED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:17:1-119:12
+		INJECTED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:17:11-69
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:21:5-77
+	android:name
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:21:22-74
+application
+ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:23:5-117:19
+MERGED from [com.google.android.material:material:1.8.0] /Users/katsas/.gradle/caches/transforms-3/a5d27fd1ab954ee81ee9d94bdd530d53/transformed/material-1.8.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.8.0] /Users/katsas/.gradle/caches/transforms-3/a5d27fd1ab954ee81ee9d94bdd530d53/transformed/material-1.8.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/katsas/.gradle/caches/transforms-3/9ad34f74696732c4b40ae55da8a3b304/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/katsas/.gradle/caches/transforms-3/9ad34f74696732c4b40ae55da8a3b304/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /Users/katsas/.gradle/caches/transforms-3/d2bf619d4187915b234b8644ff2e4b53/transformed/jetified-glide-4.10.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /Users/katsas/.gradle/caches/transforms-3/d2bf619d4187915b234b8644ff2e4b53/transformed/jetified-glide-4.10.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/katsas/.gradle/caches/transforms-3/bf39dfa708401114ee1f8aedf8999a51/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/katsas/.gradle/caches/transforms-3/bf39dfa708401114ee1f8aedf8999a51/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /Users/katsas/.gradle/caches/transforms-3/4cf47ca9ce2a85aa0923fbfa9e714a39/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/katsas/.gradle/caches/transforms-3/4cf47ca9ce2a85aa0923fbfa9e714a39/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/katsas/.gradle/caches/transforms-3/db472a875c0c4ba0b695f88c6ae70467/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/katsas/.gradle/caches/transforms-3/db472a875c0c4ba0b695f88c6ae70467/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /Users/katsas/.gradle/caches/transforms-3/4766e6bf963ddf6b2c4cae5dbd358945/transformed/jetified-gifdecoder-4.10.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /Users/katsas/.gradle/caches/transforms-3/4766e6bf963ddf6b2c4cae5dbd358945/transformed/jetified-gifdecoder-4.10.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/katsas/.gradle/caches/transforms-3/d91c3eabdf7de84e0ecbe1e67e159738/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/katsas/.gradle/caches/transforms-3/d91c3eabdf7de84e0ecbe1e67e159738/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/katsas/.gradle/caches/transforms-3/49108ca502d44a122c559dd335971f6a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/katsas/.gradle/caches/transforms-3/49108ca502d44a122c559dd335971f6a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/katsas/.gradle/caches/transforms-3/4cf47ca9ce2a85aa0923fbfa9e714a39/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:26:9-41
+	tools:ignore
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:30:9-48
+	android:roundIcon
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:27:9-54
+	android:icon
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:24:9-36
+	android:theme
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:29:9-44
+activity#com.example.android.people.MainActivity
+ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:35:9-70:20
+	android:launchMode
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:38:13-43
+	android:exported
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:36:13-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:42:13-45:29
+action#android.intent.action.MAIN
+ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:44:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:host:android.example.com+data:pathPattern:/chat/*+data:scheme:https
+ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:50:13-57:29
+action#android.intent.action.VIEW
+ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:51:17-69
+	android:name
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:51:25-66
+category#android.intent.category.BROWSABLE
+ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:52:17-78
+	android:name
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:52:27-75
+data
+ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:53:17-56:46
+	android:host
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:54:21-55
+	android:scheme
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:56:21-43
+	android:pathPattern
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:55:21-50
+	android:mimeType
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:65:23-52
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:text/plain
+ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:62:13-66:29
+action#android.intent.action.SEND
+ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:63:17-69
+	android:name
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:63:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:64:17-76
+	android:name
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:64:27-73
+meta-data#android.app.shortcuts
+ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:67:13-69:53
+	android:resource
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:69:17-50
+	android:name
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:68:17-53
+activity#com.example.android.people.VoiceCallActivity
+ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:78:9-82:57
+	android:launchMode
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:81:13-48
+	android:exported
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:80:13-36
+	android:theme
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:82:13-54
+	android:name
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:79:13-72
+activity#com.example.android.people.BubbleActivity
+ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:92:9-106:20
+	android:exported
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:96:13-36
+	android:resizeableActivity
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:97:13-46
+	android:documentLaunchMode
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:95:13-48
+	android:name
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:93:13-69
+	android:allowEmbedded
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:94:13-41
+receiver#com.example.android.people.ReplyReceiver
+ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:108:9-109:71
+	android:name
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:109:13-68
+provider#com.example.android.people.AssetFileProvider
+ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:111:9-115:54
+	android:authorities
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:113:13-61
+	android:exported
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:114:13-36
+	tools:ignore
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:115:13-51
+	android:name
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml:112:13-72
+uses-sdk
+INJECTED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml
+INJECTED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.4.1] /Users/katsas/.gradle/caches/transforms-3/6fef0b615b986db27ff121f6ba8c164f/transformed/jetified-viewbinding-7.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.1] /Users/katsas/.gradle/caches/transforms-3/6fef0b615b986db27ff121f6ba8c164f/transformed/jetified-viewbinding-7.4.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.8.0] /Users/katsas/.gradle/caches/transforms-3/a5d27fd1ab954ee81ee9d94bdd530d53/transformed/material-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.8.0] /Users/katsas/.gradle/caches/transforms-3/a5d27fd1ab954ee81ee9d94bdd530d53/transformed/material-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/katsas/.gradle/caches/transforms-3/9ad34f74696732c4b40ae55da8a3b304/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/katsas/.gradle/caches/transforms-3/9ad34f74696732c4b40ae55da8a3b304/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/katsas/.gradle/caches/transforms-3/9c0a8599a90ce61c5f398d6bd8bd1aca/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/katsas/.gradle/caches/transforms-3/9c0a8599a90ce61c5f398d6bd8bd1aca/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/katsas/.gradle/caches/transforms-3/d87d43b06734b783b9b651f947836087/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/katsas/.gradle/caches/transforms-3/d87d43b06734b783b9b651f947836087/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.5.5] /Users/katsas/.gradle/caches/transforms-3/8951d65460bddc21b7582d1702e5db7e/transformed/jetified-fragment-ktx-1.5.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.5] /Users/katsas/.gradle/caches/transforms-3/8951d65460bddc21b7582d1702e5db7e/transformed/jetified-fragment-ktx-1.5.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/katsas/.gradle/caches/transforms-3/ee926662fdfb6cdba6f961d9ea7cf3f8/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/katsas/.gradle/caches/transforms-3/ee926662fdfb6cdba6f961d9ea7cf3f8/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/katsas/.gradle/caches/transforms-3/135e089f0c68becc0b56d3f701356820/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/katsas/.gradle/caches/transforms-3/135e089f0c68becc0b56d3f701356820/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /Users/katsas/.gradle/caches/transforms-3/d2bf619d4187915b234b8644ff2e4b53/transformed/jetified-glide-4.10.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /Users/katsas/.gradle/caches/transforms-3/d2bf619d4187915b234b8644ff2e4b53/transformed/jetified-glide-4.10.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.5.5] /Users/katsas/.gradle/caches/transforms-3/eed1be0f82052be87d93ef164a11210c/transformed/fragment-1.5.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.5] /Users/katsas/.gradle/caches/transforms-3/eed1be0f82052be87d93ef164a11210c/transformed/fragment-1.5.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.6.0] /Users/katsas/.gradle/caches/transforms-3/c4a3d055e6149a3031cc382f5898fd48/transformed/jetified-activity-ktx-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.0] /Users/katsas/.gradle/caches/transforms-3/c4a3d055e6149a3031cc382f5898fd48/transformed/jetified-activity-ktx-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /Users/katsas/.gradle/caches/transforms-3/c9729fe620717445f4abdbf6c0645dc9/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /Users/katsas/.gradle/caches/transforms-3/c9729fe620717445f4abdbf6c0645dc9/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/katsas/.gradle/caches/transforms-3/ea42959bb88d62ef71c23f7b64e9bdb9/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/katsas/.gradle/caches/transforms-3/ea42959bb88d62ef71c23f7b64e9bdb9/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/katsas/.gradle/caches/transforms-3/bf39dfa708401114ee1f8aedf8999a51/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/katsas/.gradle/caches/transforms-3/bf39dfa708401114ee1f8aedf8999a51/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/katsas/.gradle/caches/transforms-3/96e82cbcd6a2b051ba1ea5425edea535/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/katsas/.gradle/caches/transforms-3/96e82cbcd6a2b051ba1ea5425edea535/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/katsas/.gradle/caches/transforms-3/2fb5b4222683eab9b603ffdc8ede8bbc/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/katsas/.gradle/caches/transforms-3/2fb5b4222683eab9b603ffdc8ede8bbc/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/katsas/.gradle/caches/transforms-3/badb00e87c6c69b77eeebd52c1d218fd/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/katsas/.gradle/caches/transforms-3/badb00e87c6c69b77eeebd52c1d218fd/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/katsas/.gradle/caches/transforms-3/183d452814fa46fdd218b74e0ae3d5ba/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/katsas/.gradle/caches/transforms-3/183d452814fa46fdd218b74e0ae3d5ba/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/katsas/.gradle/caches/transforms-3/50473afab05ea812966928b320f86349/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/katsas/.gradle/caches/transforms-3/50473afab05ea812966928b320f86349/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/katsas/.gradle/caches/transforms-3/c5c3c820c5650f9a630ffb72e3b56e1b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/katsas/.gradle/caches/transforms-3/c5c3c820c5650f9a630ffb72e3b56e1b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/katsas/.gradle/caches/transforms-3/4a7b3d502664a029e126aaa47a3f65ed/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/katsas/.gradle/caches/transforms-3/4a7b3d502664a029e126aaa47a3f65ed/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/katsas/.gradle/caches/transforms-3/0731ae5028bd7114ae2b837eddec9531/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/katsas/.gradle/caches/transforms-3/0731ae5028bd7114ae2b837eddec9531/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/katsas/.gradle/caches/transforms-3/cea598f657400b3b7d462bb1c88a14c8/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/katsas/.gradle/caches/transforms-3/cea598f657400b3b7d462bb1c88a14c8/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/katsas/.gradle/caches/transforms-3/2ccebcd26ba987a9d0a128564a2b5ee3/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/katsas/.gradle/caches/transforms-3/2ccebcd26ba987a9d0a128564a2b5ee3/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /Users/katsas/.gradle/caches/transforms-3/4cf47ca9ce2a85aa0923fbfa9e714a39/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/katsas/.gradle/caches/transforms-3/4cf47ca9ce2a85aa0923fbfa9e714a39/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/katsas/.gradle/caches/transforms-3/d2c4ae36feb9663bebc776600aecf742/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/katsas/.gradle/caches/transforms-3/d2c4ae36feb9663bebc776600aecf742/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/katsas/.gradle/caches/transforms-3/6f3c4442801afba1f4d309d984eab266/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/katsas/.gradle/caches/transforms-3/6f3c4442801afba1f4d309d984eab266/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/katsas/.gradle/caches/transforms-3/a418c322704ec8237c88267170f15803/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/katsas/.gradle/caches/transforms-3/a418c322704ec8237c88267170f15803/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/katsas/.gradle/caches/transforms-3/7fac3b1a4b480d2cf63ec91567f95304/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/katsas/.gradle/caches/transforms-3/7fac3b1a4b480d2cf63ec91567f95304/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] /Users/katsas/.gradle/caches/transforms-3/d34b9abf6e63377c506daad0722db108/transformed/jetified-lifecycle-livedata-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] /Users/katsas/.gradle/caches/transforms-3/d34b9abf6e63377c506daad0722db108/transformed/jetified-lifecycle-livedata-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/katsas/.gradle/caches/transforms-3/6e96df3a9072c7da96e52dfb9d15a59a/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/katsas/.gradle/caches/transforms-3/6e96df3a9072c7da96e52dfb9d15a59a/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/katsas/.gradle/caches/transforms-3/1364c419f8d29b92a4030d6257fa3b13/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/katsas/.gradle/caches/transforms-3/1364c419f8d29b92a4030d6257fa3b13/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /Users/katsas/.gradle/caches/transforms-3/ba35313ed7bf2d1d400b9c34c2978388/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /Users/katsas/.gradle/caches/transforms-3/ba35313ed7bf2d1d400b9c34c2978388/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/katsas/.gradle/caches/transforms-3/9c08696188b72bd8686b5e8c497e9310/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/katsas/.gradle/caches/transforms-3/9c08696188b72bd8686b5e8c497e9310/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/katsas/.gradle/caches/transforms-3/bb30e67c24962a9e8685ea0378d7d406/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/katsas/.gradle/caches/transforms-3/bb30e67c24962a9e8685ea0378d7d406/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/katsas/.gradle/caches/transforms-3/03662b7a542b234b8f15eeafe8baf87f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/katsas/.gradle/caches/transforms-3/03662b7a542b234b8f15eeafe8baf87f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/katsas/.gradle/caches/transforms-3/db472a875c0c4ba0b695f88c6ae70467/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/katsas/.gradle/caches/transforms-3/db472a875c0c4ba0b695f88c6ae70467/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/katsas/.gradle/caches/transforms-3/52cd9fd1a0d1fa95a41ac6c81cf95566/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/katsas/.gradle/caches/transforms-3/52cd9fd1a0d1fa95a41ac6c81cf95566/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/katsas/.gradle/caches/transforms-3/2832e8e425067d5ba7b350731e1b7e5a/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/katsas/.gradle/caches/transforms-3/2832e8e425067d5ba7b350731e1b7e5a/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /Users/katsas/.gradle/caches/transforms-3/4766e6bf963ddf6b2c4cae5dbd358945/transformed/jetified-gifdecoder-4.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /Users/katsas/.gradle/caches/transforms-3/4766e6bf963ddf6b2c4cae5dbd358945/transformed/jetified-gifdecoder-4.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/katsas/.gradle/caches/transforms-3/d91c3eabdf7de84e0ecbe1e67e159738/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/katsas/.gradle/caches/transforms-3/d91c3eabdf7de84e0ecbe1e67e159738/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/katsas/.gradle/caches/transforms-3/347fec9dbda9e7d1b1a83c1a0233ae9d/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/katsas/.gradle/caches/transforms-3/347fec9dbda9e7d1b1a83c1a0233ae9d/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/katsas/.gradle/caches/transforms-3/49108ca502d44a122c559dd335971f6a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/katsas/.gradle/caches/transforms-3/49108ca502d44a122c559dd335971f6a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] /Users/katsas/.gradle/caches/transforms-3/9ec9227ace151cb70ab90ad1b6792f69/transformed/lifecycle-livedata-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] /Users/katsas/.gradle/caches/transforms-3/9ec9227ace151cb70ab90ad1b6792f69/transformed/lifecycle-livedata-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/katsas/.gradle/caches/transforms-3/e437291e38fdbf39805b38b66f126719/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/katsas/.gradle/caches/transforms-3/e437291e38fdbf39805b38b66f126719/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/katsas/.gradle/caches/transforms-3/d135753e78a2b7618b4ec11c196c6f15/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/katsas/.gradle/caches/transforms-3/d135753e78a2b7618b4ec11c196c6f15/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/katsas/.gradle/caches/transforms-3/9ecbe20721dc128bdecb7dbee21b7f06/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/katsas/.gradle/caches/transforms-3/9ecbe20721dc128bdecb7dbee21b7f06/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/katsas/.gradle/caches/transforms-3/8a1f8a7a0132891cc0d0f56e2f5acba1/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/katsas/.gradle/caches/transforms-3/8a1f8a7a0132891cc0d0f56e2f5acba1/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/katsas/.gradle/caches/transforms-3/ce8944ac9c5ba2c4887b8dde92411cf4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/katsas/.gradle/caches/transforms-3/ce8944ac9c5ba2c4887b8dde92411cf4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/katsas/.gradle/caches/transforms-3/a27d81022fa032d7392335d691c17151/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/katsas/.gradle/caches/transforms-3/a27d81022fa032d7392335d691c17151/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml
+INJECTED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml
+		ADDED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/katsas/Documents/GitHub/payconiq-ui-samples/People/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/katsas/.gradle/caches/transforms-3/bf39dfa708401114ee1f8aedf8999a51/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/katsas/.gradle/caches/transforms-3/db472a875c0c4ba0b695f88c6ae70467/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/katsas/.gradle/caches/transforms-3/db472a875c0c4ba0b695f88c6ae70467/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/katsas/.gradle/caches/transforms-3/d91c3eabdf7de84e0ecbe1e67e159738/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/katsas/.gradle/caches/transforms-3/d91c3eabdf7de84e0ecbe1e67e159738/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/katsas/.gradle/caches/transforms-3/bf39dfa708401114ee1f8aedf8999a51/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/katsas/.gradle/caches/transforms-3/bf39dfa708401114ee1f8aedf8999a51/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/katsas/.gradle/caches/transforms-3/bf39dfa708401114ee1f8aedf8999a51/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/katsas/.gradle/caches/transforms-3/bf39dfa708401114ee1f8aedf8999a51/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/katsas/.gradle/caches/transforms-3/bf39dfa708401114ee1f8aedf8999a51/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/katsas/.gradle/caches/transforms-3/bf39dfa708401114ee1f8aedf8999a51/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/katsas/.gradle/caches/transforms-3/bf39dfa708401114ee1f8aedf8999a51/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/katsas/.gradle/caches/transforms-3/4cf47ca9ce2a85aa0923fbfa9e714a39/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/katsas/.gradle/caches/transforms-3/4cf47ca9ce2a85aa0923fbfa9e714a39/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/katsas/.gradle/caches/transforms-3/4cf47ca9ce2a85aa0923fbfa9e714a39/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.example.android.people.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/katsas/.gradle/caches/transforms-3/4cf47ca9ce2a85aa0923fbfa9e714a39/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/katsas/.gradle/caches/transforms-3/4cf47ca9ce2a85aa0923fbfa9e714a39/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/katsas/.gradle/caches/transforms-3/4cf47ca9ce2a85aa0923fbfa9e714a39/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/katsas/.gradle/caches/transforms-3/4cf47ca9ce2a85aa0923fbfa9e714a39/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/katsas/.gradle/caches/transforms-3/4cf47ca9ce2a85aa0923fbfa9e714a39/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.android.people.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/katsas/.gradle/caches/transforms-3/4cf47ca9ce2a85aa0923fbfa9e714a39/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/katsas/.gradle/caches/transforms-3/4cf47ca9ce2a85aa0923fbfa9e714a39/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/katsas/.gradle/caches/transforms-3/db472a875c0c4ba0b695f88c6ae70467/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/katsas/.gradle/caches/transforms-3/db472a875c0c4ba0b695f88c6ae70467/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/katsas/.gradle/caches/transforms-3/db472a875c0c4ba0b695f88c6ae70467/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
