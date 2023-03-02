@@ -7,6 +7,10 @@ Tech stack
 * JUnit
 * UiAutomator declaration (could be used for push notifications explicit testing)
 
+General
+
+* Tests can be found in androidTest / com.example.tinw.test package
+
 Run
 
 * No parallelization this time, just a straightforward run on an emulator/device.
